@@ -6,5 +6,11 @@
     <string name="action_settings">Settings</string>
     <string name="ok">OK</string>
     <string name="cancel">Cancel</string>
-
+    <string name="submit">Submit</string>
+    <string name="Username">Username:</string>
+    <string name="user">Please enter your username</string>
+    <string name="password">Password</string>
+    <string name="confirm">Confirm</string>
+    <string name="password_enter">Please enter your password</string>
+    <string name="confirm_enter">Please confirm your password</string>
 </resources>
